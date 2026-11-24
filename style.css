@@ -8,3 +8,14 @@ nav{color: black;
 padding:15px;}
 
 img{width: 100px; height: 150px;}
+
+a:link, a:visited {
+  background-color: #7337AB;
+  color: black;
+  padding: 15px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+footer {background-color: #58307D;}
